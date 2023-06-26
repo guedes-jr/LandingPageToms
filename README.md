@@ -43,3 +43,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+https://youtu.be/b9Vw_LUyYmc?t=886

@@ -33,7 +33,7 @@
         </section>
         <section class="course-section">
             <div class="cards">
-                <article>
+                <article class="card">
                     <img src="src/img/piano.png" alt="Ícone de teclas de piano">
                     <strong>Piano popular</strong>
                     <p>
@@ -46,7 +46,7 @@
                         <img src="src/img/arrow-right.svg" alt="Ir para página do curso">
                     </a>
                 </article>
-                <article>
+                <article class="card">
                     <img src="src/img/clef.png" alt="Ícone da clave de sol">
                     <strong>Teoria musical</strong>
                     <p>
@@ -59,7 +59,7 @@
                         <img src="src/img/arrow-right.svg" alt="Ir para página do curso">
                     </a>
                 </article>
-                <article>
+                <article class="card">
                     <img src="src/img/sax.png" alt="Ícone de saxofone">
                     <strong>Sax alto</strong>
                     <p>
@@ -72,7 +72,7 @@
                         <img src="src/img/arrow-right.svg" alt="Ir para página do curso">
                     </a>
                 </article>
-                <article>
+                <article class="card">
                     <img src="src/img/drums.png" alt="Ícone de bateria">
                     <strong>Bateria</strong>
                     <p>
@@ -87,29 +87,30 @@
                 </article>
             </div>
             
-            <h2>E <span class="text-primary">vários</span> outros!</h2>
-            <a href="#">Conhecer os cursos</a>
+            <h2 class="text-center">E <span class="text-primary">vários</span> outros!</h2>
+            <a href="#" class="button mt-2 mx-auto">Conhecer os cursos</a>
         </section>
     </main>
     <footer>
         <div>
-            <img src="src/img/logo.svg" alt="Tom's Jazz School">
-            <p>
+            <img src="src/img/logo.svg" alt="Tom's Jazz School" class="mt-1 mb-1">
+            <p class="mb-2">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
                 Odit unde voluptate nisi officiis commodi! Quae ipsum tempore 
                 distinctio. Consectetur nobis architecto est dicta quod quam 
                 laudantium omnis laborum doloribus asperiores.
             </p>
         </div>
-        <nav>
+        <nav class="mb-2">
             <a href="#">Início</a>
             <a href="#">Cursos</a>
             <a href="#">Eventos</a>
             <a href="#">Contatos</a>
         </nav>
-        <form>
-            <label for="email">Receba materiais gratuitos em seu e-mail</label>
-            <input type="text" name="email" id="email" placeholder="Digite o seu e-mail... ">
+        <form class="newsletter-form">
+            <label for="email" class="mb-1">Receba materiais gratuitos em seu e-mail</label>
+            <input type="text" class="mb-1" name="email" id="email" placeholder="Digite o seu e-mail... ">
+            <button class="button mb-2">Quero receber</button>
         </form>
     </footer>
 </body>
