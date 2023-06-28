@@ -17,7 +17,7 @@ Pagina de landing page sobre um de jazz</p>
 <br>
 
 <p align="center">
-  <img alt="NLW-COPA" src="./src/img/Capa.png" width="100%">
+  <img alt="NLW-COPA" src="./src/img/load.gif" width="450">
 </p>
 
 ## 🚀 Tecnologias
@@ -41,7 +41,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-
-https://youtu.be/b9Vw_LUyYmc?t=886
+ 
